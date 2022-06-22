@@ -1,0 +1,7 @@
+D:\19TTA_LQH\Lab_220622\bin\Debug\Lab_220622.exe.config
+D:\19TTA_LQH\Lab_220622\bin\Debug\Lab_220622.exe
+D:\19TTA_LQH\Lab_220622\bin\Debug\Lab_220622.pdb
+D:\19TTA_LQH\Lab_220622\obj\Debug\Lab_220622.csproj.AssemblyReference.cache
+D:\19TTA_LQH\Lab_220622\obj\Debug\Lab_220622.csproj.CoreCompileInputs.cache
+D:\19TTA_LQH\Lab_220622\obj\Debug\Lab_220622.exe
+D:\19TTA_LQH\Lab_220622\obj\Debug\Lab_220622.pdb
