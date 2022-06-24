@@ -1,0 +1,7 @@
+A:\Lab_200622\bin\Debug\Lab_200622.exe.config
+A:\Lab_200622\bin\Debug\Lab_200622.exe
+A:\Lab_200622\bin\Debug\Lab_200622.pdb
+A:\Lab_200622\obj\Debug\Lab_200622.csproj.AssemblyReference.cache
+A:\Lab_200622\obj\Debug\Lab_200622.csproj.CoreCompileInputs.cache
+A:\Lab_200622\obj\Debug\Lab_200622.exe
+A:\Lab_200622\obj\Debug\Lab_200622.pdb
