@@ -1,0 +1,8 @@
+﻿# Thực hành 27/06/2022
+
+- Bài 01: Tạo form để cho phép người dùng nhập vào 2 số thực bất kỳ m và n như hình phía dưới. Người dùng sẽ chọn một trong các phép tính cộng (+), trừ (-), nhân (*), chia (/) 2 số m và n được nhập vào. Kết quả thực hiện phép tính được chọn sẽ hiển thị trên ô textbox kết quả. Nút lệnh xóa thực hiện xóa các số m, n và kết quả trên form.
+- Bài 02: Thiết kế một form máy tính số để thực hiện một số phép toán đơn giản với các điều khiển được trình bày như hình bên dưới. Người dùng sẽ chọn số cần thực hiện thông qua các nút lệnh có nhãn là từ 0 đến 9 và nút lệnh dấu chấm thập phân. Số hạng được chọn sẽ được hiển thị trên textbox nằm ở trên form. Khi người dùng nhấn chọn một trong các toán tử (+, -, *, /) thì giá trị của toán hạng phía bên trái toán tử sẽ được lưu tạm với một nhãn có tên là lblNho được đặt ở chế độ ẩn. Người dùng thực hiện thao tác tương tự đề nhấp số hạng phía bên phải toán tử được chọn. Sau khi người dùng nhấn chọn “=” để cho biết kết quả thì chương trình sẽ tự động lấy toán hạng được lưu trong lblNho và toán hạng hiện có trên ô textbox nhập liệu để thực hiện kết quả. Nhãn Kết quả của ở phía dưới màn hình cho biết phép toán được thực hiện.
+- Bài 03: Thiết kế một form Món ăn đường phố để cho phép người dùng tính tiền cho khách hàng với các thức ăn chính được liệt kê như hình mẫu form phía dưới.
+  - Người sử dụng có thể nhập thông tin của khách hàng bao gồm: họ tên khách hàng, địa chỉ khách hàng và số điện thoại.
+  - Người dùng sẽ có thể chọn mua 3 loại thức ăn như khoai tây chiên, khoai lang chiên và nước ngọt. Người sử dụng có thể chọn nhiều đùi gá rán thông qua nút lệnh NumericUpDown.
+  - Khi người dùng nhấn nút lệnh tính tiền thì hệ thống sẽ thực hiện tính tiền dựa vào món ăn được chọn.

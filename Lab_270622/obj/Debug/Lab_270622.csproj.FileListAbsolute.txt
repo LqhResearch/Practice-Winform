@@ -1,0 +1,12 @@
+D:\19TTA_LQH\Lab_270622\bin\Debug\Lab_270622.exe.config
+D:\19TTA_LQH\Lab_270622\bin\Debug\Lab_270622.exe
+D:\19TTA_LQH\Lab_270622\bin\Debug\Lab_270622.pdb
+D:\19TTA_LQH\Lab_270622\obj\Debug\Lab_270622.csproj.AssemblyReference.cache
+D:\19TTA_LQH\Lab_270622\obj\Debug\Lab_270622.Bai01.resources
+D:\19TTA_LQH\Lab_270622\obj\Debug\Lab_270622.Properties.Resources.resources
+D:\19TTA_LQH\Lab_270622\obj\Debug\Lab_270622.csproj.GenerateResource.cache
+D:\19TTA_LQH\Lab_270622\obj\Debug\Lab_270622.csproj.CoreCompileInputs.cache
+D:\19TTA_LQH\Lab_270622\obj\Debug\Lab_270622.exe
+D:\19TTA_LQH\Lab_270622\obj\Debug\Lab_270622.pdb
+D:\19TTA_LQH\Lab_270622\obj\Debug\Lab_270622.Bai02.resources
+D:\19TTA_LQH\Lab_270622\obj\Debug\Lab_270622.Bai03.resources
